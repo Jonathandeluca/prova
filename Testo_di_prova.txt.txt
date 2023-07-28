@@ -1,0 +1,4 @@
+git status
+git add . (oppure il nome del file)
+git commit -m "il commit qui"
+git push
